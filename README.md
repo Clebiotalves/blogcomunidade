@@ -24,8 +24,8 @@
     * intalar biblioteca wtf => pip install flask-wtf para validações dos formulários.
     * usar secrets.token_hex para pegar senha segura no app.config.
     * instalar a biblioteca email_validator => pip install email_validator
-    * 
-
+    
 </p>
+<h3>Correção no requerements eu tive que tirar qual é o número do  jinja</h3>
 
 
